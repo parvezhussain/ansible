@@ -13,14 +13,14 @@
 [apache]
 #192.168.56.20
 
-#[cua_prd_booking_ui]
-#jbvcblauic1000
+[cua_prd_booking_ui]
+jbvcblauic1000
 
 #[cua_prd_booking_app]
 #jbvcbltdsc1000
 
-#[cua_prd_ibm_app]
-#jbvcblkcic1000
+[cua_prd_ibm_app]
+jbvcblkcic1000
 
 #[cua_stg_booking_ui]
 #jbvcblcuic2000
