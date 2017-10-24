@@ -25,11 +25,11 @@ jbvcblkcic1000
 [cua_stg_booking_ui]
 jbvcblcuic2000
 
-#[cua_stg_booking_app]
-#jbvcbltdpc2000
+[cua_stg_booking_app]
+jbvcbltdpc2000
 
-#[cua_stg_ibm_app]
-#jbvcblwcic2000
+[cua_stg_ibm_app]
+jbvcblwcic2000
 
 ## green.example.com
 ## blue.example.com
