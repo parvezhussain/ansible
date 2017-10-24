@@ -20,7 +20,7 @@ jbvcblauic1000
 jbvcbltdsc1000
 
 [cua_prd_ibm_app]
-jbvcblkcic1000
+jbvcblkcic100[0:3]
 
 [cua_stg_booking_ui]
 jbvcblcuic2000
