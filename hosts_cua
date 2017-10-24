@@ -16,25 +16,26 @@
 [cua_prd_booking_ui]
 jbvcblauic1000
 
-#[cua_prd_booking_app]
-#jbvcbltdsc1000
+[cua_prd_booking_app]
+jbvcbltdsc1000
 
-#[cua_prd_ibm_app]
-#jbvcblkcic100[0:3]
+[cua_prd_ibm_app]
+jbvcblkcic1000
 
-#[cua_stg_booking_ui]
-#jbvcblcuic2000
+[cua_stg_booking_ui]
+jbvcblcuic2000
 
-#[cua_stg_booking_app]
-#jbvcbltdpc2000
+[cua_stg_booking_app]
+jbvcbltdpc2000
 
-#[cua_stg_ibm_app]
-#jbvcblwcic2000
+[cua_stg_ibm_app]
+jbvcblwcic2000
 
 ## green.example.com
 ## blue.example.com
 ## 192.168.100.1
 ## 192.168.100.10
+#jbvcblkcic100[0:3]
 
 # Ex 2: A collection of hosts belonging to the 'webservers' group
 
